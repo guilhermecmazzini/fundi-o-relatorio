@@ -1,0 +1,15 @@
+# Arquivos temporários do LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.bbl
+*.blg
+
+# PDFs compilados (opcional, caso não queira versionar o PDF final)
+*.pdf

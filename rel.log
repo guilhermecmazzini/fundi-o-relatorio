@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.8)  2 SEP 2025 17:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.8)  3 SEP 2025 16:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -241,27 +241,33 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (C:\Users\guilh\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
+<usplogo.png, id=1, 335.00156pt x 388.45125pt>
+File: usplogo.png Graphic file (type png)
+<use usplogo.png>
+Package pdftex.def Info: usplogo.png  used on input line 31.
+(pdftex.def)             Requested size: 167.50037pt x 194.22514pt.
+
 
 [1
 
-{C:/Users/guilh/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (rel.aux)
+{C:/Users/guilh/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./usplogo.png>] (rel.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-08-30>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 4425 strings out of 473899
- 71751 string characters out of 5726500
- 471493 words of memory out of 5000000
- 27284 multiletter control sequences out of 15000+600000
- 559131 words of font info for 38 fonts, out of 8000000 for 9000
+ 4452 strings out of 473899
+ 72189 string characters out of 5726500
+ 473493 words of memory out of 5000000
+ 27307 multiletter control sequences out of 15000+600000
+ 562230 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 70i,5n,79p,308b,135s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\guilh\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk>
-Output written on rel.pdf (1 page, 4010 bytes).
+ 70i,7n,79p,308b,309s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\guilh\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\guilh\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\guilh\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\guilh\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2074.pk>
+Output written on rel.pdf (1 page, 263393 bytes).
 PDF statistics:
- 17 PDF objects out of 1000 (max. 8388607)
+ 85 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

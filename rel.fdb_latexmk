@@ -1,9 +1,16 @@
 # Fdb version 4
-["pdflatex"] 1756843655.51541 "c:/Users/guilh/Desktop/Fundição relatorio/rel.tex" "rel.pdf" "rel" 1756843656.07798 0
+["pdflatex"] 1756927854.17043 "c:/Users/guilh/Desktop/Fundição relatorio/rel.tex" "rel.pdf" "rel" 1756927854.81769 0
   "C:/Users/guilh/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1756841634 81088 29d6fa367ac022d1b69251d68c0742e6 ""
+  "C:/Users/guilh/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1728.pk" 1728403702 49100 520e0d1e7dc2997adaef36dea8e2ba88 ""
+  "C:/Users/guilh/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx2074.pk" 1728403704 59008 454d7c9934254add8d014f5acfbd6876 ""
   "C:/Users/guilh/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1200.pk" 1728403698 28440 560c9086a8c1b14208b5b98ab373b122 ""
+  "C:/Users/guilh/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1440.pk" 1728403701 34320 32abeade667cb886a6749faec0fd871e ""
   "C:/Users/guilh/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1728403665 11948197 8777002f404ab2a6797c5c865b547ad8 ""
+  "C:/Users/guilh/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecbx1200.tfm" 993061958 3200 b8d69bc738e5ef3e08cefeef3109ff56 ""
+  "C:/Users/guilh/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecbx1728.tfm" 993061962 3204 d35cb76836b6cb4ed404dd64a550530d ""
+  "C:/Users/guilh/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecbx2074.tfm" 993061964 3208 da5ec29ca7c2f5f55c296dd6713d4a74 ""
   "C:/Users/guilh/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecrm1200.tfm" 993062126 3152 4850ff0163852b7fab34bd55e1197f28 ""
+  "C:/Users/guilh/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecrm1440.tfm" 993062128 3168 3bd7b08ba4330af81521911744311212 ""
   "C:/Users/guilh/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr12.tfm" 1136765053 1288 655e228510b4c2a1abe905c368440826 ""
   "C:/Users/guilh/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "C:/Users/guilh/AppData/Local/Programs/MiKTeX/tex/generic/babel/babel.sty" 1724932513 146459 bc754156bcff0b0651cf59d8ba0cb2bc ""
@@ -34,9 +41,10 @@
   "C:/Users/guilh/AppData/Local/Programs/MiKTeX/tex/latex/tools/array.sty" 1718356376 14067 1383bd6ee23ab18ae0e796155404deb7 ""
   "C:/Users/guilh/AppData/Local/Programs/MiKTeX/tex/latex/tools/calc.sty" 1718356376 10214 61188260d324e94bc2f66825d7d3fdf4 ""
   "C:/Users/guilh/AppData/Local/Programs/MiKTeX/tex/latex/tools/longtable.sty" 1718356376 15033 652f156c2f139501300900190cae68c4 ""
-  "c:/Users/guilh/Desktop/Fundição relatorio/rel.tex" 1756841622 276 2d5db20b3c953ac157ee891120f5f838 ""
-  "rel.aux" 1756843655 169 f0defdf652dca380c4deeffb4b63cfb0 "pdflatex"
-  "rel.tex" 1756841622 276 2d5db20b3c953ac157ee891120f5f838 ""
+  "c:/Users/guilh/Desktop/Fundição relatorio/rel.tex" 1756927853 874 ae13b911ceb939cb0d6de97d7e9d8f32 ""
+  "rel.aux" 1756927854 169 f0defdf652dca380c4deeffb4b63cfb0 "pdflatex"
+  "rel.tex" 1756927853 874 ae13b911ceb939cb0d6de97d7e9d8f32 ""
+  "usplogo.png" 1687273056 287831 117015ca59493027e27bf7c4eba27c96 ""
   (generated)
   "rel.aux"
   "rel.log"
