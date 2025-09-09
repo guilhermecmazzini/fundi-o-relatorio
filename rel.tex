@@ -7,36 +7,57 @@
 \usepackage{longtable}
 \usepackage{enumitem}
 \usepackage{float}
+\usepackage{tikz}
 
 \begin{document}
 \begin{titlepage}
 
-\newcommand{\disciplina}{Laboratório de Física III}
-\newcommand{\titulo}{Prática 6: Circuito RLC, Transientes e
-Ressonância}
-\newcommand{\autores}{dsadsadSDS
+\newcommand{\disciplina}{Processamento de Materiais I: Solidificação e Fundição (SMM 0302)}
+\newcommand{\titulo}{Desafio PBL Tupy x USP 2025: Primeira Entrega}
 
-}
-\newcommand{\prof}{Dr. Valmor Roberto Mastelaro}
-\newcommand{\data}{São Carlos,\\ 17 de junho 2025}
+
+\newcommand{\prof}{Prof. Dr. Marcelo Falcão de Oliveira}
+\newcommand{\data}{São Carlos,\\ 12 de setembro 2025}
 
 
 
 \center
 
 
+\begin{tikzpicture}[remember picture,overlay]
+   
+    \node[anchor=north west, xshift=1cm, yshift=-1cm] at (current page.north west) 
+    {\includegraphics[scale=0.6]{eesclogo.png}};
+    
+    \node[anchor=north east, xshift=-1cm, yshift=-1cm] at (current page.north east) 
+    {\includegraphics[scale=0.6]{tupylogo.png}};
+\end{tikzpicture}
 
-\begin{figure}[h!]
-\centering 
-\includegraphics[scale=0.5]{usplogo.png}
-\end{figure}
-\vspace{1.0cm}
 
-\textbf{\LARGE\disciplina}\\[0.5cm]
-\textbf{\Large\titulo}\\[1.0cm]
+\textbf{\Large\titulo}
+
+\begin{center}
+    \includegraphics[scale=0.8]{peca1.png}
+\end{center}
+
+
+
+\textbf{\disciplina}
+
+\vspace{0.5cm}
+
+\textbf{\prof}
+
+\vspace{0.5cm}
 
 \begin{flushright}
-\large\autores
+\begin{tabular}{l l}
+    Ana Julia Borges Guerra & 11799962\\
+    Guilherme Capputti Mazzini & 14099960\\
+    Ítalo Cunha Melo Silva & 11223292\\
+    Murilo Fernandes Pinto & 14599895\\
+    Ricardo Rodrigues da Silva & 14616503
+\end{tabular}
 \end{flushright}
 
 \vfill
